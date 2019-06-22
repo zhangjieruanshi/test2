@@ -1,6 +1,6 @@
 package dddd;
 //fgfdddddddddddddddffffffffffffffffffffffff
-//tyy
+//tyyfffhh  nnn
 public class G {
 
 }
